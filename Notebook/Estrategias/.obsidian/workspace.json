@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5909faf43306035",
+        "id": "1832b4573b130eaf",
         "type": "tabs",
         "children": [
           {
-            "id": "26f760b0bc0bdf3e",
+            "id": "1b7804f58771133d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Planeación y Gestión.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Planeación y Gestión"
             }
           }
         ]
@@ -184,13 +188,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "26f760b0bc0bdf3e",
+  "active": "5e96d1c2018a55ef",
   "lastOpenFiles": [
     "Innovación.md",
-    "Estrategia por Michael Porter.md",
-    "Pasted image 20260923181559.png",
-    "Bienvenido.md",
     "cree un enlace.md",
+    "Bienvenido.md",
+    "2026-10-07.md",
+    "Sin título.base",
+    "Planeación y Gestión.md",
+    "Pasted image 20260923181559.png",
+    "Estrategia por Michael Porter.md",
     "Pasted image 20260923181552.png"
   ]
 }
