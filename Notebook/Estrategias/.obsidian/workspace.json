@@ -11,10 +11,14 @@
             "id": "1b7804f58771133d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/jesus/Descargas/Consentimiento_Informado_v2_1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Consentimiento_Informado_v2_1"
             }
           }
         ]
