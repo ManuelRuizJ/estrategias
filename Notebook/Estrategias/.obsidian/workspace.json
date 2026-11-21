@@ -11,14 +11,17 @@
             "id": "1b7804f58771133d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "file:/home/jesus/Descargas/Consentimiento_Informado_v2_1.md",
-                "mode": "source",
-                "source": false
+                "file": "Tema6-iconos/Ejecución de la Estrategia.canvas",
+                "viewState": {
+                  "x": -410.0483316895469,
+                  "y": -25.95498295248141,
+                  "zoom": -1.077690102537064
+                }
               },
-              "icon": "lucide-file",
-              "title": "Consentimiento_Informado_v2_1"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ejecución de la Estrategia"
             }
           }
         ]
@@ -83,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d727a801c213b535",
@@ -190,6 +194,7 @@
   },
   "active": "1b7804f58771133d",
   "lastOpenFiles": [
+    "file:/home/jesus/Descargas/Consentimiento_Informado_v2_1.md",
     "Innovación.md",
     "cree un enlace.md",
     "Bienvenido.md",
